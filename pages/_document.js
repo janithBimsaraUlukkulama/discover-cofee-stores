@@ -6,19 +6,19 @@ export default function Document() {
             <Head>
                 <link
                     rel="preload"
-                    href="/fonts/IBMPlexSans-Bold.ttf"
+                    href="/public/static/fonts/IBMPlexSans-Bold.ttf"
                     as="font"
                     crossOrigin="anonymous"
                 />
                 <link
                     rel="preload"
-                    href="/fonts/IBMPlexSans-Regular.ttf"
+                    href="/public/static/fonts/IBMPlexSans-Regular.ttf"
                     as="font"
                     crossOrigin="anonymous"
                 />
                 <link
                     rel="preload"
-                    href="/fonts/IBMPlexSans-SemiBold.ttf"
+                    href="/public/static/fonts/IBMPlexSans-SemiBold.ttf"
                     as="font"
                     crossOrigin="anonymous"
                 />
